@@ -1,1 +1,1 @@
-<?php echo 'check GitHub'; ?>
+<?php echo 'check GitHub ngo'; ?>
